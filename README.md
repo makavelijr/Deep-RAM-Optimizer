@@ -22,3 +22,10 @@ Run `Deep_RAM_Optimizer.bat` as Administrator.
 
 ## License
 MIT
+---
+
+## 👨‍💻 Author
+
+**MakaveliJR**
+
+Deep RAM Optimizer © 2026
