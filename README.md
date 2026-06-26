@@ -20,12 +20,16 @@ Run `Deep_RAM_Optimizer.bat` as Administrator.
 - GitHub: https://github.com/makavelijr
 - YouTube: https://youtube.com/@makavelijr
 
-## License
-MIT
 ---
 
-## 👨‍💻 Author
+## License
 
-**MakaveliJR**
+MIT License
+
+---
+
+## Author
+
+MakaveliJR
 
 Deep RAM Optimizer © 2026
