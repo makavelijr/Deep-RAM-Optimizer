@@ -1,5 +1,7 @@
 # 🚀 Deep RAM Optimizer
+
 ![Deep RAM Optimizer](SS.PNG)
+
 Advanced Windows memory optimization batch script.
 
 ## Features
